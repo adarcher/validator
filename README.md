@@ -1,3 +1,5 @@
+***Note:** my dad wanted to see an example of a few things I mentioned during a phone conversation, so this is a "quick and dirty" reply to him.  It includes a few things as formalities and caveats that this isn't a fully fleshed-out or mature tool.*
+
 # Simple Validator Class
 
 _Anddy Archer, 2021 :: licensed under CC0_
